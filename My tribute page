@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset ="UFT-8">
+    <meta name="description" content="tribute">
+    <meta name="keywords" content="hero, achievements">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <h1>Tribute to Alan Sidney Patrick Rickman </h1>
+    <img src="https://image.tmdb.org/t/p/original/1EearzPgXkmYFKvECfWNrctIFT9.jpg" width="200" height="200">
+    <h2>About Alan Rickman</h2>
+    <p>Alan Rickman (1946–2016) was a highly respected English actor known for his deep, distinctive voice and powerful performances on stage and in film. </p>
+    <h3>What Alan Rickman is Famous For</h3>
+   <ul>
+   <li> 1. Severus Snape in Harry Potter
+He played Professor Snape in all eight Harry Potter films — one of his most iconic and loved roles.
+     <a href="https://en.wikipedia.org/wiki/Alan_Rickman"> Wikipedia</a>
+     </li>
+
+<li>🔫 2. Hans Gruber in Die Hard
+  His first movie role, and he instantly became famous as the villain Hans Gruber.<a href="https://en.wikipedia.org/wiki/Alan_Rickman"> Wikipedia</a> </li>
+
+<li>🏹 3. Sheriff of Nottingham in Robin Hood: Prince of Thieves
+  He won a BAFTA Award for this role and became known for his dramatic, funny villain style. <a href="https://en.wikipedia.org/wiki/Alan_Rickman"> Wikipedia</a> </li>
+
+<li>🎭 4. Stage acting with the Royal Shakespeare Company
+  Before movies, he was already respected in theatre for his strong performances. <a href="https://en.wikipedia.org/wiki/Alan_Rickman"> Wikipedia</a> </li>
+
+<li>🗣️ 5. His unique voice
+Many people recognize him instantly because of his deep, slow, smooth voice — a big part of his fame <a href="https://en.wikipedia.org/wiki/Alan_Rickman"> Wikipedia</a> </li>
+    </ul>
+  </body>
+</html>
