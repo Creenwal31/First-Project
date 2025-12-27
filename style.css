@@ -1,0 +1,30 @@
+#title {
+  background: #2F4F4F;
+  border: 3px solid black;
+  color: #FFFAF0;
+  padding: 2px;
+  margin: 10p;
+  font-family: Times New Roman;
+}
+#container1 {
+  background: #2F4F4F;
+  color: #FFFAF0;
+  border: 3px solid black;
+  padding: 10px;  
+  margin: 10px
+  
+}
+#container2 {
+  background: #2F4F4F;
+  color: #FFFAF0;
+  border: 3px solid black;
+  padding: 10px;  
+  margin: 10px;
+}
+#creator {
+    background: #2F4F4F;
+    color: #FFFAF0;
+    border: 3px solid black;
+    padding: 10px;  
+    margin: 10px;
+}
